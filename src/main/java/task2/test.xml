@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+    <incendent>
+    <date_time>2020-05-05 15:39:03</date_time>
+    <first_name>Ivan</first_name>
+    <last_name>Ivanov</last_name>
+    <type>SPEEDING</type>
+    <fine_amount>340.00</fine_amount>
+    </incendent>
+
+    <incendent>
+        <date_time>2020-05-05 15:40:03</date_time>
+        <first_name>Konstantin</first_name>
+        <last_name>Cond</last_name>
+        <type>idk</type>
+        <fine_amount>12.00</fine_amount>
+    </incendent>
+
+    <incendent>
+        <date_time>2020-05-05 15:40:03</date_time>
+        <first_name>se</first_name>
+        <last_name>cond</last_name>
+        <type>idk</type>
+        <fine_amount>512.00</fine_amount>
+    </incendent>
+
+    <incendent>
+        <date_time>2022-05-05 15:39:03</date_time>
+        <first_name>Maria</first_name>
+        <last_name>Fork</last_name>
+        <type>ok</type>
+        <fine_amount>222.00</fine_amount>
+    </incendent>
+
+    <incendent>
+    <date_time>2022-08-08 15:22:11</date_time>
+    <first_name>Victor</first_name>
+    <last_name>Petrov</last_name>
+    <type>idk</type>
+    <fine_amount>1337.99</fine_amount>
+    </incendent>
+</report>
+
